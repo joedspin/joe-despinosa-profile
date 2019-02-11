@@ -570,7 +570,7 @@
 			width: calc(3em + 2px);
 
 			&:before {
-				@include vendor('transform', 'rotate(45deg)');
+				// @include vendor('transform', 'rotate(45deg)');
 				display: inline-block;
 				font-size: 1.5em;
 			}

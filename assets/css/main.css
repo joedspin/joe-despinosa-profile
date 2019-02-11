@@ -2025,10 +2025,10 @@ input, select, textarea {
 		}
 
 		.icon.major {
-			-moz-transform: rotate(-45deg);
+			/* -moz-transform: rotate(-45deg);
 			-webkit-transform: rotate(-45deg);
 			-ms-transform: rotate(-45deg);
-			transform: rotate(-45deg);
+			transform: rotate(-45deg); */
 			border-radius: 3px;
 			border: solid 2px #fff;
 			display: inline-block;
@@ -2040,10 +2040,10 @@ input, select, textarea {
 		}
 
 			.icon.major:before {
-				-moz-transform: rotate(45deg);
+				/* -moz-transform: rotate(45deg);
 				-webkit-transform: rotate(45deg);
 				-ms-transform: rotate(45deg);
-				transform: rotate(45deg);
+				transform: rotate(45deg); */
 				display: inline-block;
 				font-size: 1.5em;
 			}
