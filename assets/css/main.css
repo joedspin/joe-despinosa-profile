@@ -2036,7 +2036,9 @@ input, select, textarea {
 			height: calc(3em + 2px);
 			line-height: 3em;
 			text-align: center;
-			width: calc(3em + 2px);
+      width: calc(3em + 2px);
+      display: flex;
+      justify-content: center;
 		}
 
 			.icon.major:before {
